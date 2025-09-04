@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --app-bg: #0b0b0c;
+}
+body { background: #f8fafc; }
+
+
